@@ -1,3 +1,5 @@
 GitHub es una plataforma de desarrollo colaborativo basada en la web, diseñada para gestionar proyectos de software utilizando el control de versiones Git
 Permite a los desarrolladores trabajar en equipo, compartir código, y contribuir a proyectos de código abierto o privado. Con su amplia comunidad
 Cambio la linea 3.
+
+Nuevas modificaciones.
