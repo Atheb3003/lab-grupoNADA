@@ -1,4 +1,5 @@
 Este archivo contiene el manual.
 Este archivo contiene el manual.
 Este archivo contiene el manual.
-No se leer.
+Si sabes leer.
+Actualizado manual-usuario para la issue #6.
